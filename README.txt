@@ -1,1 +1,1 @@
-Hellow GitHub.com
+Hello GitHub.com
